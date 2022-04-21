@@ -1,2 +1,2 @@
-# Backend_Java
+# Backend Java
 🗂️ Ejercicios a realizar.
