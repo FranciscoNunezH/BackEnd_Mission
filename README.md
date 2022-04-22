@@ -17,7 +17,6 @@
 <p>
     <img src="https://assets.pokemon.com/assets/cms2-es-es/img/cards/web/SWSHP/SWSHP_ES_SWSH029.png" alt>
     <img src="https://assets.pokemon.com/assets/cms2-es-es/img/cards/web/SM1/SM1_ES_125.png" alt>
-    <img src="https://assets.pokemon.com/assets/cms2-es-es/img/cards/web/SWSH6/SWSH6_ES_195.png" alt>
     <img src="https://assets.pokemon.com/assets/cms2-es-es/img/cards/web/NRG/NRG_ES_26.png" alt>
 </p>
 
