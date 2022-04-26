@@ -1,7 +1,7 @@
 # Backend Java
 🗂️ Ejercicios a realizar.
 
-<H1> 1.- Modelado Abstracción </H1>
+<H1> 1.- Modelado Abstracción  </H1>
 <p> Se nos propuso un ejercicio de Harry Potter, la verdad no soy muy fan de la saga. Decidi apelar a mi nostalgia con Pokémon. Así que opte por usar el juego de cartas 
     coleccionables de Pokémon.
 </p>
@@ -23,13 +23,13 @@
 <p> Estas se dividen en sub tipos. No ahondaremos en ello pues este no es un tutorial Para aprender a jugar. <br>
 Para eso pueden ingresar a este link: <a href="https://pokemon.fandom.com/es/wiki/Pok%C3%A9mon_Trading_Card_Game">Pokémon Trading Card Game</a> <br>
 <br>
-En fin, nos centraremos en modelar en especifico las cartas de pokémon (del sub tipo Basico).
+En fin, nos centraremos en modelar en especifico las cartas de pokémon (del sub tipo Básico).
 </p>
 
 <p>
     <img src="https://assets.pokemon.com/assets/cms2-es-es/img/cards/web/SM3/SM3_ES_40.png" alt>
     <br>
-    <em>Esta es una Carta de pokémon basico.</em>
+    <em>Esta es una Carta de pokémon básico.</em>
 </p>
 
 
@@ -47,6 +47,9 @@ En fin, nos centraremos en modelar en especifico las cartas de pokémon (del sub
   - La debilidad.
   - La resistencia.
   - Coste de Retirada.
+
+
+<img src="https://64.media.tumblr.com/c7beb8c411a9447f326c54b531b1067a/tumblr_mhd98a5fT51s2ugo7o9_250.gif" alt>
 
 
  
