@@ -11,7 +11,7 @@ public class CartaPokemon {
 
     public static void pokemon(String nombre, String tipo, String evo, String atk, int atkCosto, int atkDamage,
                                int salud, int debilidad, int resistencia, int retirada){
-        // Creamos un objeto.
+        
         Abstraccion datosPokemon = new Abstraccion();
         datosPokemon.setBasicoEvolucion(evo);
         datosPokemon.setPuntosDeSalud(salud);
