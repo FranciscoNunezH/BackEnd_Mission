@@ -43,7 +43,8 @@ En fin, nos centraremos en modelar en especifico las cartas de pokémon (del sub
 <p> Los elementos Escenciales que lo definen como una carta de tipo Pokémon, elementos que no poseen los otros tipos de cartas son:</p>
 
   - Puntos de Salud (PS).
-  - Los Ataques.
+  - Linea Evolutiva (Basico o Fase X)
+  - Los Ataques (Coste de energía, Nombre y Daño).
   - La debilidad.
   - La resistencia.
   - Coste de Retirada.
