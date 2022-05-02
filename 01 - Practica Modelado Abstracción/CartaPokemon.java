@@ -2,7 +2,7 @@ package Abstraccion;
 
 public class CartaPokemon {
     public static void main(String[] args){
-        pokemon("Charizard", "Fuego", "Fase 2", "Ascuas Regias", 2, 100,170, 2, 0, 3);
+        pokemon("Charizard", "Fuego", "Fase 2", "Ascuas Regias", 2, 100, 170, 2, 0, 3);
         pokemon("Rayquaza", "Normal", "Basico", "Estallido Vigoroso", 3, 120, 130, 2, -30, 2);
         pokemon("Totodile", "Agua", "Basico", "Golpe de LLuvia", 1, 20, 70, 2, 0, 1);
         pokemon("Bulbasaur", "Planta", "Basico", "Encontrar Amigo", 1, 0, 60, 2, 0, 1);
