@@ -49,8 +49,10 @@ En fin, nos centraremos en modelar en especifico las cartas de pokémon (del sub
   - La resistencia.
   - Coste de Retirada.
 
+<img src="https://64.media.tumblr.com/c7beb8c411a9447f326c54b531b1067a/tumblr_mhd98a5fT51s2ugo7o9_250.gif" alt>   
+<em>"Squirtle, Squirtle, Squirtle!"</em>
 
-<img src="https://64.media.tumblr.com/c7beb8c411a9447f326c54b531b1067a/tumblr_mhd98a5fT51s2ugo7o9_250.gif" alt>
+<p> <br> Tradducción: Puedes Ver el ejercicio Pinchando <a href="https://pokemon.fandom.com/es/wiki/Pok%C3%A9mon_Trading_Card_Game">Aquí.</a> </p>
 
 
  
